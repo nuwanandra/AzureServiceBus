@@ -1,0 +1,59 @@
+﻿@page "/"
+@using SBShared.Models
+@using SBSender.Components.Servicess
+@inject IQueueService queue
+@rendermode InteractiveServer
+
+<PageTitle>Home</PageTitle>
+
+<h1>Azure Service Bus</h1>
+
+Welcome to your new app.
+
+
+
+
+
+<EditForm Model="@person" OnValidSubmit="@PublishMessage" FormName="uniqueFormName">
+    <DataAnnotationsValidator></DataAnnotationsValidator>
+    <ValidationSummary></ValidationSummary>
+
+    <div class="form-group">
+        <lable for="firstName">First Name</lable>
+        <InputText id="firstName" class="form-control" @bind-Value="person.FirstName"></InputText>
+    </div>
+
+    <div class="form-group">
+        <lable for="lastName">Last Name</lable>
+        <InputText id="lastName" class="form-control" @bind-Value="person.LastName"></InputText>
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+
+</EditForm>
+
+
+
+
+
+@code{
+
+    
+
+
+    private PersonModel person = new PersonModel();
+
+
+    private async Task PublishMessage()
+    {
+        await queue.SendMessageAsync(person, "personqueue");
+        person = new PersonModel();
+         
+
+    }
+
+
+
+}

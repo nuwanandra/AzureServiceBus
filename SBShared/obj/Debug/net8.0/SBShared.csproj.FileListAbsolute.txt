@@ -1,0 +1,14 @@
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\bin\Debug\net8.0\SBShared.exe
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\bin\Debug\net8.0\SBShared.deps.json
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\bin\Debug\net8.0\SBShared.runtimeconfig.json
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\bin\Debug\net8.0\SBShared.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\bin\Debug\net8.0\SBShared.pdb
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\obj\Debug\net8.0\SBShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\obj\Debug\net8.0\SBShared.AssemblyInfoInputs.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\obj\Debug\net8.0\SBShared.AssemblyInfo.cs
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\obj\Debug\net8.0\SBShared.csproj.CoreCompileInputs.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\obj\Debug\net8.0\SBShared.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\obj\Debug\net8.0\refint\SBShared.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\obj\Debug\net8.0\SBShared.pdb
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\obj\Debug\net8.0\SBShared.genruntimeconfig.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\AzureServiceBus\SBShared\obj\Debug\net8.0\ref\SBShared.dll
